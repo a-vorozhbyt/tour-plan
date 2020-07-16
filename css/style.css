@@ -486,7 +486,6 @@ template {
     width: 132px;
   }
   .navbar:first-of-type {
-    padding-top: 30px;
     padding-bottom: 30px;
   }
   .navbar__search {
